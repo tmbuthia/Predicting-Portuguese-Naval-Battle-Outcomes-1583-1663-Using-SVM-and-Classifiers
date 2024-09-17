@@ -2,7 +2,7 @@
 This repository contains a project that uses different classification models to predict the outcomes of Portuguese naval battles between 1583 and 1663. The dataset includes information on naval battles involving Portuguese, Dutch, and English ships, as well as Spanish involvement.
 
 Dataset
-The dataset used in this project includes the following features:
+This project includes the following features:
 
 Battle: Name of the battle place
 Year: Year of the battle
