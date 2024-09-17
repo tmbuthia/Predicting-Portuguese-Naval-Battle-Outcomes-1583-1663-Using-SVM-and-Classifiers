@@ -47,7 +47,7 @@ Performance Evaluation
 The performance of each model is evaluated using accuracy, mean squared error, and classification reports.
 
 Results
-
+![image](https://github.com/user-attachments/assets/b17509e4-8919-4d5e-b52c-2157625a998e)
 
 
 Linear SVM: Achieved 33.33% accuracy, with challenges in classifying classes, particularly class 1.
