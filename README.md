@@ -4,14 +4,8 @@ This repository contains a project that uses different classification models to 
 Dataset
 This project includes the following features:
 
-Battle: Name of the battle place
-Year: Year of the battle
-Portuguese ships: Number of Portuguese ships
-Dutch ships: Number of Dutch ships
-English ships: Number of ships from the English side
-The ratio of Portuguese to Dutch/British ships: Ratio of Portuguese ships to Dutch/British ships
-Spanish Involvement: 1 = Yes, 0 = No
-Portuguese outcome: -1 = Defeat, 0 = Draw, 1 = Victory
+<img width="420" alt="Screenshot 2024-09-17 at 11 35 43 AM" src="https://github.com/user-attachments/assets/81ed8565-e019-4b6d-9112-62f798bf7652">
+
 Models Used
 The project evaluates the performance of several classifiers on the dataset:
 
